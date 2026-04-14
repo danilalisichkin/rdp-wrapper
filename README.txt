@@ -1,3 +1,5 @@
+Данный репозиторий поможет Вам настроить службу удаленного рабочего стола Windows с бесплатной поддержкой многопользовательского режима.
+
 Скорее всего поможет следующий  способ:
 
 1. Запустить autoupdate.bat
@@ -39,6 +41,10 @@ reg add HKLM\SYSTEM\CurrentControlSet\Services\TermService\Parameters /v Service
 Гайд на установку + автообновление RDP Wrapper:
 
 https://github.com/asmtron/rdpwrap/blob/master/binary-download.md
+
+Тематический Discord-сервер:
+
+https://discord.gg/jHHDVMAyg
 
 Перезапуск сервиса удаленного рабочего стола:
 
